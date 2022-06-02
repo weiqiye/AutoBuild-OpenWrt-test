@@ -62,7 +62,7 @@ jobs:
       env: 
         #REPO_URL: https://github.com/coolsnowwolf/lede
         REPO_URL: https://github.com/openwrt/openwrt
-        REPO_BRANCH: master
+        REPO_BRANCH: openwrt21.02
       run: |
         git clone --depth 1 $REPO_URL -b $REPO_BRANCH openwrt
         cd openwrt
