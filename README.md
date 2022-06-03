@@ -13,6 +13,8 @@ You could edit and enable "Sync Code" YAML file to let your forked repo keep upd
 ## Usage
 
 个人自用精简固件，默认argon主题，服务中插件如下图！！！
+
+
 ![屏幕截图 2022-06-03 202618](https://user-images.githubusercontent.com/95523291/171853576-a324afbb-397c-43a3-bdc5-69c27acdddbf.png)
 
 
